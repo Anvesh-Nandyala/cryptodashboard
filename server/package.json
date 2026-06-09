@@ -1,0 +1,14 @@
+{
+  "name": "crypto-dashboard-server",
+  "version": "1.0.0",
+  "description": "Express API proxy for CoinCap & portfolio persistent store",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
